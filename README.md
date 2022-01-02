@@ -3,9 +3,9 @@
 ## This repo contians refactored code for the [Horiseon]( https://a-wushie.github.io/horiseon-accessibility-refactor/) webpage with the goal of improving accessibility for screen-reader users as well as improving codebase quality by eliminating repition and using semantic HTML
 
 ## Here are images of the site: 
-![Horiseon Top Half] (./Develop/assets/images/screenshot-top.png)
+![Horiseon Top Half](./Develop/assets/images/screenshot-top.png)
 
-![Horiseon Bottom Half] (./Develop/assets/images/screenshot-bottom.png)
+![Horiseon Bottom Half](./Develop/assets/images/screenshot-bottom.png)
 
 ### Credits
 
